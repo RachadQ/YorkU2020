@@ -20,7 +20,7 @@ for html,css assignment: I had to make a static website. that have images links 
 
 for the excel assignment: I had to use relative and absolute cell references, add formulae, merge cells and make parameters from multiple cells
 
-#itec 1620
+# itec 1620
 for Itec 1620 I use jave in eclipse to make many small programs.
 
 Assignment1:
