@@ -7,12 +7,12 @@ Projects of yorku first semster
 ## General info
 This project is all my Assignments from first semster at York University
 	
-##Itec 1000
+## Itec 1000
 In itec 1000 we went to the instructional model of a computer, using The little man computer to make a simple application 
 which keep track of counter getting the bigger number of a sequenece of numbers and get the biggest number through a loop
 until we quit the program. Also  keeping tracking and gettting the address of variables.
 
-##Itec 1010
+## Itec 1010
 In Itec 1010 I use microsoft access to create a visual database make queries relationship between tables,Input masks,validation rules,
 and reports.
 
