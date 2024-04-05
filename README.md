@@ -5,7 +5,7 @@ Projects of York University first academic term.
 
 
 ## General info
-This project is all my Assignments from my first academic term at York University and programs that I took.
+This project is all my Assignments from my first academic term at York University and assignments that I did.
 	
 ## Itec 1000
 <p ><b> Course Description:</b></p>
