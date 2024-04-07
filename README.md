@@ -7,7 +7,7 @@ Projects of York University first academic term.
 ## General info
 This project is all my Assignments from my first academic term at York University and assignments that I did.
 	
-## Itec 1000
+## Itec 1000: Introduction to Information Technology
 <p ><b> Course Description:</b></p>
 <p>Introduces basic concepts of contemporary information technologies (computers, networks, telecommunications) used to process and store information in organizations. The course material includes both hardware and software components, which students compare, select and combine to solve information problems.
 </p>
@@ -15,14 +15,15 @@ This project is all my Assignments from my first academic term at York Universit
 </p>
 <p><b>Assignment:</b> This program was designed to manage a counter while identifying the largest number within a sequence of numbers using a loop until program termination. Additionally, it facilitated the monitoring and retrieval of variable addresses during execution.<P>
 
-## Itec 1010
+## Itec 1010: Information and Organization
+Skills
 <p> <b>Assignment:</b> I use microsoft access to create a visual database make queries relationship between tables, Input masks, validation rules,and reports.</p>
 
 <p><b>Assignment:</b> I had to make a static website. that have images links to other sites and using css to style the cite.</p>
 
 <p><b>Assignment:</b> I had to use relative and absolute cell references, add formulae, merge cells and make parameters from multiple cells.<p>
 
-# Itec 1620
+# Itec 1620: Object-Based Programming
 for Itec 1620, I used Kava with the application eclipse to make many small programs.
 
 <p><b>Assignment:</b>
@@ -45,5 +46,13 @@ Assignment3
   
   Part 3: I used a array  to swap, sort get median number
 
-  # Introduction to Applied Statistics
+  # Math 2565: Introduction to Applied Statistics
+
+  # Math 1190:  Introduction to Sets and Logic
+
+  # Itec 2600: Introduction to Analytical programming
+
+  # Adms 1010: Exploring the Function of Business
+
+  # Itec 2210: System Administration
   
