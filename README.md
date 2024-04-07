@@ -2,12 +2,13 @@
 Projects of York University first academic term.
 ## Table of contents
 * [General info](#general-info)
-* [Itec 1000](#itec-1000)
+* [Itec 1000:](#itec-1000)
 
-## General info dcd
+## General info 
 This project is all my Assignments from my first academic term at York University and assignments that I did.
 	
-## Itec 1000: Introduction to Information Technology
+## Itec 1000: 
+<b>Introduction to Information Technology</b>
 <p ><b> Course Description:</b></p>
 <p>Introduces basic concepts of contemporary information technologies (computers, networks, telecommunications) used to process and store information in organizations. The course material includes both hardware and software components, which students compare, select and combine to solve information problems.
 </p>
