@@ -4,7 +4,7 @@ Projects of York University first academic term.
 * [General info](#general-info)
 * [Itec 1000](#itec-1000)
 
-## General info
+## General info dcd
 This project is all my Assignments from my first academic term at York University and assignments that I did.
 	
 ## Itec 1000: Introduction to Information Technology
