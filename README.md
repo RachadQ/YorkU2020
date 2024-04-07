@@ -23,7 +23,7 @@ Skills
 
 <p><b>Assignment:</b> I had to use relative and absolute cell references, add formulae, merge cells and make parameters from multiple cells.<p>
 
-# Itec 1620: Object-Based Programming
+## Itec 1620: Object-Based Programming
 for Itec 1620, I used Kava with the application eclipse to make many small programs.
 
 <p><b>Assignment:</b>
@@ -46,13 +46,17 @@ Assignment3
   
   Part 3: I used a array  to swap, sort get median number
 
-  # Math 2565: Introduction to Applied Statistics
+  ## Math 2565: Introduction to Applied Statistics
+  <p ><b> Course Description:</b></p>
 
-  # Math 1190:  Introduction to Sets and Logic
+  ## Math 1190:  Introduction to Sets and Logic
+<p ><b> Course Description:</b></p>
 
-  # Itec 2600: Introduction to Analytical programming
+  ## Itec 2600: Introduction to Analytical programming
+<p ><b> Course Description:</b></p>
 
-  # Adms 1010: Exploring the Function of Business
+  ## Adms 1010: Exploring the Function of Business
+<p ><b> Course Description:</b></p>
 
-  # Itec 2210: System Administration
-  
+  ## Itec 2210: System Administration
+  <p ><b> Course Description:</b></p>
