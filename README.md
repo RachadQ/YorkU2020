@@ -52,7 +52,8 @@ Assignment3
 
   ## Math 1190:  Introduction to Sets and Logic
 <p ><b> Course Description:</b></p>
-<p>Topics include logic, sets, functions, relations, modular arithmetic and applications of elementary number theory, proof techniques, induction.<p>
+<p>Topics include logic, sets, functions, relations, modular arithmetic and applications of elementary number theory, proof techniques, induction.</p>
+	
   ## Itec 2600: Introduction to Analytical programming
 <p ><b> Course Description:</b></p>
 
