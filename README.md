@@ -3,6 +3,11 @@ Projects of York University first academic term.
 ## Table of contents
 * [General info](#general-info)
 * [Itec 1000:](#itec-1000)
+* [Itec 1010:](#itec-1010)
+* [Math 2565:](#Math-2565)
+* [Math 1190:](#Math-1190)
+* [Itec 2600:](#itec-2600)
+* [Itec 2210:](#itec-2210)
 
 ## General info 
 This project is all my Assignments from my first academic term at York University and assignments that I did.
@@ -16,7 +21,8 @@ This project is all my Assignments from my first academic term at York Universit
 </p>
 <p><b>Assignment:</b> This program was designed to manage a counter while identifying the largest number within a sequence of numbers using a loop until program termination. Additionally, it facilitated the monitoring and retrieval of variable addresses during execution.<P>
 
-## Itec 1010: Information and Organization
+## Itec 1010:
+<b>Information and Organizationy</b>
 Skills
 <p> <b>Assignment:</b> I use microsoft access to create a visual database make queries relationship between tables, Input masks, validation rules,and reports.</p>
 
@@ -24,7 +30,8 @@ Skills
 
 <p><b>Assignment:</b> I had to use relative and absolute cell references, add formulae, merge cells and make parameters from multiple cells.<p>
 
-## Itec 1620: Object-Based Programming
+## Itec 1620:
+<b>Object-Based Programming</b>
 for Itec 1620, I used Kava with the application eclipse to make many small programs.
 
 <p><b>Assignment:</b>
@@ -47,18 +54,23 @@ Assignment3
   
   Part 3: I used a array  to swap, sort get median number
 
-  ## Math 2565: Introduction to Applied Statistics
+  ## Math 2565:
+  <b>Introduction to Applied Statistics</b>
   <p ><b> Course Description:</b></p>
 
-  ## Math 1190:  Introduction to Sets and Logic
+  ## Math 1190:
+  <b>Introduction to Sets and Logic</b>
 <p ><b> Course Description:</b></p>
 <p>Topics include logic, sets, functions, relations, modular arithmetic and applications of elementary number theory, proof techniques, induction.</p>
 	
-  ## Itec 2600: Introduction to Analytical programming
+  ## Itec 2600:
+  <b>Introduction to Analytical Programming</b>
 <p ><b> Course Description:</b></p>
 
-  ## Adms 1010: Exploring the Function of Business
+  ## Adms 1010:
+  <b>Exploring the Function of Business</b>
 <p ><b> Course Description:</b></p>
 
-  ## Itec 2210: System Administration
+  ## Itec 2210:
+  <b>System Adminstration</b>
   <p ><b> Course Description:</b></p>
