@@ -32,7 +32,7 @@ Skills
 
 ## Itec 1620:
 <b>Object-Based Programming</b>
-for Itec 1620, I used Kava with the application eclipse to make many small programs.
+for Itec 1620, I used java with the application eclipse to make many small programs.
 
 <p><b>Assignment:</b>
   Part 1: get user input which was use to get the slope & slope intercept of a perpendicualr line. Then I had to find the intercept and th distance.<p>
