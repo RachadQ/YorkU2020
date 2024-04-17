@@ -10,7 +10,7 @@ Projects of York University first academic term.
 * [Itec 2210:](#itec-2210)
 
 ## General info 
-This project is all my Assignments from my first academic term at York University and assignments that I did.
+This project is all my courses from my first academic term at York University and assignments that I did.
 	
 ## Itec 1000: 
 <b>Introduction to Information Technology</b>
