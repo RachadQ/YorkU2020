@@ -70,6 +70,7 @@ Assignment3
   ## Adms 1010:
   <b>Exploring the Function of Business</b>
 <p ><b> Course Description:</b></p>
+<p>rovides a broad survey of the functional areas of business by engaging students in a critical discourse about management, its sub-disciplines, and the current issues and future challenges facing business. </p>
 
   ## Itec 2210:
   <b>System Adminstration</b>
